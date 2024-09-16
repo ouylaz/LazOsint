@@ -37,4 +37,4 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 ## ©️ Droits d'auteur
 
 © "LazOsint Tool" est un service et produit fourni par la marque déposée **ouylaz™**. Tous droits réservés.  
-Visitez le site web 🌐 : [ouylaz](guns.lol/ouylazoff)
+Visitez le site web 🌐 : [ouylaz](https://guns.lol/ouylazoff)
