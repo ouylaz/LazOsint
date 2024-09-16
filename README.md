@@ -34,6 +34,9 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 > [!WARNING]
 > **LazOsint** est un outil puissant ⚙️ qui doit être utilisé de manière responsable. L'équipe de développement de LazOsint n'est pas responsable des dommages causés par une mauvaise utilisation de cet outil.
 
+> [!NOTE]
+> **Important :** Si il y a un beug lors du code il est obligatoire de me [contacter](mailto:lmacorpoff@gmail.com)
+
 ## ©️ Droits d'auteur
 
 © "LazOsint Tool" est un service et produit fourni par la marque déposée **ouylaz™**. Tous droits réservés.  
