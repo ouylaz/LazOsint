@@ -15,8 +15,8 @@
 
 ## ✨ Fonctionnalités
 
-- [x] 🔍 **Recherche OSINT complète**
-- [x] 🔐 **Outils pour les mot de passes**
+- [ ] 🔍 **Recherche OSINT complète**
+- [ ] 🔐 **Outils pour les mot de passes**
 - [x] 🔑 **Recherche et exploitation de faille SQL**
 - [x] 🌐 **Outils pour le web**
 - [x] 🔍 **Copier un site web entier**
