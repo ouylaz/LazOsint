@@ -11,7 +11,7 @@
 > [!NOTE]
 > Il est possible que LazOsint ait des fonctionnalités qui ne fonctionnent pas. Ces fonctionnalités seront corrigées lors des prochaines mises à jour..
 
-💬 Rejoignez notre serveur [discord](https://discord.gg/gbYyWgYp3g)
+💬 Rejoignez notre serveur [discord](https://discord.gg/gbYyWgYp3g).
 
 ## ✨ Fonctionnalités
 
