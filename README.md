@@ -36,7 +36,9 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 
 > [!NOTE]
 > **Important :** Si il y a un beug lors du code il est obligatoire de me [contacté](mailto:lmacorpoff@gmail.com).
-> **Important :** Vous ne devez pas modifier le codes 
+
+>[!NOTE]
+>**Important :** Vous ne devez pas modifier le codes car je code moi en prenant mon temps pour que après vous faites croire que c'est le votre !  
 
 ##  ©️ Droits d'auteur
 
