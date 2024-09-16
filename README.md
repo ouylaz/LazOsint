@@ -31,7 +31,7 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 4. 🖥️ Ouvrire le fichier `Start.bat`.
 
 #
-> [!WARNING]
+> [!ATTENTION]
 > **LazOsint** est un outil puissant ⚙️ qui doit être utilisé de manière responsable. L'équipe de développement de LazOsint n'est pas responsable des dommages causés par une mauvaise utilisation de cet outil.
 
 ## ©️ Droits d'auteur
