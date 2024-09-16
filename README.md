@@ -4,7 +4,7 @@
 
 **LazOsint** est une bibliothèque d'outil multifonction 🛠️ inspiré de [HackingTool by Loxyteck](https://github.com/loxyteck/RedTiger-Tools) et développé en Python et sera gratuit et des payant selon la difficulté, conçu pour effectuer diverses tâches liées à l'OSINT (Open Source Intelligence), la cybersécurité 🔐, et la gestion d'informations numériques. Que vous ayez besoin de rechercher des informations sur une IP, d'extraire des détails sur un serveur Discord, ou même de copier des pages web, LazOsint est là pour vous assister.
 
-**Pour Loxyteck** LazOsint et inspiré par vous et il respetera vos règles ! je vous respecte et vous etes les meilleurs ✨!!
+**Pour Loxyteck** LazOsint et inspiré par vous et il respetera vos règles et les options payentent ne sera pas gratuite ! je vous respecte et vous etes les meilleurs ✨!!
 
 </div>
 
@@ -35,9 +35,10 @@ Pour déployer ce projet, suivez les étapes ci-dessous :
 > **LazOsint** est un outil puissant ⚙️ qui doit être utilisé de manière responsable. L'équipe de développement de LazOsint n'est pas responsable des dommages causés par une mauvaise utilisation de cet outil.
 
 > [!NOTE]
-> **Important :** Si il y a un beug lors du code il est obligatoire de me [contacter](mailto:lmacorpoff@gmail.com)
+> **Important :** Si il y a un beug lors du code il est obligatoire de me [contacté](mailto:lmacorpoff@gmail.com).
+> **Important :** Vous ne devez pas modifier le codes 
 
-## ©️ Droits d'auteur
+##  ©️ Droits d'auteur
 
 © "LazOsint Tool" est un service et produit fourni par la marque déposée **ouylaz™**. Tous droits réservés.  
 Visitez le site web 🌐 : [ouylaz](https://guns.lol/ouylazoff)
