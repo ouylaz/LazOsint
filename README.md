@@ -1,3 +1,5 @@
+<img align="center" src="Img/Laz-Banner.gif" width="100%"> 
+
 <p>
   <h3 align="center">⭐ N'oubliez pas de définir le repository sur "Star" ⭐</h3>
 </p>
@@ -20,7 +22,7 @@
   <img src="Img/LazOsint.png" width="49%"> 
   <img src="Img/LazOsint-2.png" width="49%"> 
   <img src="Img/LazOsint-3.png" width="49%"> 
-  <img src="Img/VirusBuilder.png" width="49%">
+  <img src="Img/BuilderVirus.png" width="49%">
 </p>
 
 <h1>⚙️・Functions:</h1>
