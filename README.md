@@ -22,7 +22,7 @@
   <img src="Img/LazOsint.png" width="49%"> 
   <img src="Img/LazOsint-2.png" width="49%"> 
   <img src="Img/LazOsint-3.png" width="49%"> 
-  <img src="Img/BuilderVirus.png" width="49%">
+  <img src="Img/VirusBuilder.png" width="49%">
 </p>
 
 <h1>⚙️・Functions:</h1>
