@@ -1,3 +1,4 @@
+
 # Copyright (c) RedTiger (https://redtiger.shop)
 # See the file 'LICENSE' for copying permission
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -15,9 +16,9 @@ coding_tool = "Python 3"
 language_tool = "FR"
 creator = "ouylaz"
 platform = "Windows 10/11 & Linux"
-discord_server = "discord.gg/redtigertools"
-website = "redtiger.shop"
-github_tool = "github.com/loxyteck/RedTiger-Tools"
+discord_server = "discord.gg/gbYyWgYp3g"
+website = "lmaoff.wordpress.com"
+github_tool = "github.com/ouylaz/LazOsint"
 telegram = "t.me/redtigertools"
 url_config = "https://raw.githubusercontent.com/ouylaz/LazOsint/refs/heads/main/Settings/Program/Config/Config.py"
 url_downloads = "https://github.com/ouylaz/LazOsint/archive/main.zip"
