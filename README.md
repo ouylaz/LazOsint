@@ -180,7 +180,7 @@ Ou
 <h1>⚠️・Reglement:</h1>
 
 <p>
-LazOsint a été développé uniquement à des fins éducatives. Ce projet a été créé avec de bonnes intentions et est destiné à un usage personnel uniquement. En choisissant d'utiliser RedTiger, vous reconnaissez et acceptez l'entière responsabilité de toutes les conséquences pouvant résulter de vos actions.
+LazOsint a été développé uniquement à des fins éducatives. Ce projet a été créé avec de bonnes intentions et est destiné à un usage personnel uniquement. En choisissant d'utiliser LazOsint, vous reconnaissez et acceptez l'entière responsabilité de toutes les conséquences pouvant résulter de vos actions.
 </p>
 
 <h2>🔗・Credits:</h2>
