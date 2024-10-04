@@ -26,6 +26,8 @@
   <img src="Img/VirusBuilder.png" width="49%">
 </p>
 
+<h1>📄・Pages:<h1>
+
 <h1>⚙️・Functions:</h1>
 
 ```
