@@ -116,7 +116,7 @@
 │   ├── Discord Server Info
 │   └── Discord Nitro Generator
 │
-└── 🎮 - Roblox Tools
+└── 🎮 - Games Tools
     ├── Roblox Cookie Login
     ├── Roblox Cookie Info
     ├── Roblox User Info
