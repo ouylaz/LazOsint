@@ -27,6 +27,8 @@
 </p>
 
 <h1>📄・Pages:<h1>
+<p align="center">
+  <img src="Img/LazOsint.png" width="100%">
 
 <h1>⚙️・Functions:</h1>
 
