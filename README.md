@@ -38,6 +38,12 @@
   <img src="Img/LazOsint-2.png" width="100%">
 </p>
 
+<p><string>Page: 3</string></p>
+<p align="center">
+  <img src="Img/LazOsint-3.png"
+width="100%">
+</p>
+
 <h1>⚙️・Functions:</h1>
 
 ```
