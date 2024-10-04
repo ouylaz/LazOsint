@@ -35,7 +35,7 @@
 
 <p><strong>Page: 2</strong></p>
 <p align="center">
-  <img src="Img/LazOsint.png" width="100%">
+  <img src="Img/LazOsint-2.png" width="100%">
 </p>
 
 <h1>⚙️・Functions:</h1>
