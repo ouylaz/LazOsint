@@ -26,15 +26,17 @@
   <img src="Img/VirusBuilder.png" width="49%">
 </p>
 
-<h1>📄・Pages:<h1>
-    - <strong>Page: 1</strong>
-<p align="center">
-  <img src="Img/LazOsint.png"width="100%">
+<h1>📄・Pages:</h1>
 
-<h1>📄・Pages:<h1>
-    - <strong>Page: 1</strong>
+<p><strong>Page: 1</strong></p>
 <p align="center">
-  <img src="Img/LazOsint.png"width="100%">
+  <img src="Img/LazOsint.png" width="100%">
+</p>
+
+<p><strong>Page: 2</strong></p>
+<p align="center">
+  <img src="Img/LazOsint.png" width="100%">
+</p>
 
 <h1>⚙️・Functions:</h1>
 
