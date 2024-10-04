@@ -17,15 +17,6 @@
   💻 -> Multi-Tools seulement pour les <strong>Professionnel</strong> et ce qui font de la <strong>Cyber-Secutité</strong.<br>
 </p>
 
-<h1>⭐・Features: </h1>
-
-<p align="center">
-  <img src="Img/LazOsint.png" width="49%"> 
-  <img src="Img/LazOsint-2.png" width="49%"> 
-  <img src="Img/LazOsint-3.png" width="49%"> 
-  <img src="Img/VirusBuilder.png" width="49%">
-</p>
-
 <h1>📄・Pages:</h1>
 
 <p><strong>Page: 1</strong></p>
