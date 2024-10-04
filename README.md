@@ -31,7 +31,7 @@
 <p align="center">
   <img src="Img/LazOsint.png"width="100%">
 
-    - <strong>Page: 2</strong>
+    - Page: 2
 <p align="center">
   <img src="Img/LazOsint-2.png"width="100%">
 
