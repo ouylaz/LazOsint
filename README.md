@@ -14,6 +14,7 @@
   📂 -> <strong>Open Source</strong> uniquement à des fins de vérification, garantissant l’absence de programmes malveillants.<br>
   🔄 -> <strong>Fréquemment mis à jour</strong>.<br>
   💰 -> <strong>Gratuit</strong> Pour tout le mondes.<br>
+  👨‍💻 -> Multi-Tools seulement pour les <strong>Professionnel</strong> et ce qui font de la <strong>Cyber-Secutité</strong.<br>
 </p>
 
 <h1>⭐・Features: </h1>
