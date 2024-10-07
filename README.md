@@ -18,7 +18,7 @@
   🗨️ -> Possède une activité sur <strong>Discord</strong>.<br>
 </p>
 
-<h1>・Pages:</h1>
+<h1>📄・Pages:</h1>
 
 <p><strong>Page: 1</strong></p>
 <p align="center">
