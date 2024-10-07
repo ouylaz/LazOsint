@@ -7,18 +7,19 @@
 <h1>📜・Description:</h1>
 
 </p>
-  👨‍💻 -> Developpé en <strong>Python</strong>.<br>
-  🌍 -> Tool en <strong>Francais</strong>.<br>
+<h1>📄</p>
+  👨‍💻 -> Développé en <strong>Python</strong>.<br>
+  🌍 -> Outil en <strong>Français</strong>.<br>
   💻 -> Disponible sur <strong>Windows</strong> et <strong>Linux</strong>.<br>
-  🔎 -> <strong>Pas de virus</strong> et <strong>backdoor</strong>.<br>
+  🔎 -> <strong>Pas de virus</strong> ni de <strong>backdoor</strong>.<br>
   📂 -> <strong>Open Source</strong> uniquement à des fins de vérification, garantissant l’absence de programmes malveillants.<br>
   🔄 -> <strong>Fréquemment mis à jour</strong>.<br>
-  💰 -> <strong>Gratuit</strong> Pour tout le mondes.<br>
-  💻 -> Multi-Tools seulement pour les <strong>Professionnel</strong> et ce qui font de la <strong>Cyber-Secutité</strong.<br>
-🗨️ -> Il possède une activité sur <strong>Discord</strong>.<br>
+  💰 -> <strong>Gratuit</strong> pour tout le monde.<br>
+  💻 -> Multi-outils réservés aux <strong>professionnels</strong> et à ceux qui travaillent dans la <strong>cybersécurité</strong>.<br>
+  🗨️ -> Possède une activité sur <strong>Discord</strong>.<br>
 </p>
 
-<h1>📄・Pages:</h1>
+・Pages:</h1>
 
 <p><strong>Page: 1</strong></p>
 <p align="center">
