@@ -40,6 +40,12 @@
   <img src="Img/VirusBuilder.png" width="100%">
 </p>
 
+<p><strong>Discord Activités</strong></p>
+<p align="center">
+  <IMG sec="Img/DiscordActivity.png"
+width="100%">
+</p>
+
 <h1>⚙️・Fonctions:</h1>
 
 <pre>
