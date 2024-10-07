@@ -34,8 +34,19 @@
 
 <p>Si vous pensez que c'est un faux positif, vous pouvez désactiver temporairement la sécurité de votre antivirus pour éviter que le fichier ne soit supprimé automatiquement.</p>
 
-<p>🔽 <strong>Téléchargez le VirusBuilderOptions.py sur la page et appuyé sur un bouton téléchargez :</strong></p>
-<p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger le VirusBuilderOptions.py ici</a></p>
+<p>🔽 <strong>Étape 1 : Téléchargez le fichier <em>VirusBuilderOptions.py</em> en cliquant sur le lien ci-dessous :</strong></p>
+<p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger VirusBuilderOptions.py ici</a></p>
+
+<p>🔽 <strong>Étape 2 : Accédez au dossier <em>Settings</em> dans votre projet, comme montré dans l'image ci-dessus.</strong></p>
+
+<p>🔽 <strong>Étape 3 : Dans le dossier <em>Settings</em>, créez un nouveau sous-dossier appelé <em>Program</em> s'il n'existe pas déjà.</strong></p>
+
+<p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>, créez un autre sous-dossier appelé <em>FileDetectedByAntivirus</em>.</strong></p>
+
+<p>🔽 <strong>Étape 5 : Une fois que le fichier <em>VirusBuilderOptions.py</em> est téléchargé, placez-le dans le dossier suivant :</strong></p>
+<pre><code>FileDetectedByAntivirus</code></pre>
+
+<p>🔽 <strong>Résultat : Votre fichier <em>VirusBuilderOptions.py</em> devrait maintenant être dans le dossier <em>FileDetectedByAntivirus</em> et prêt à l'emploi.</strong></p>
 
 <p><em>⚠️ Attention : désactiver la sécurité de votre antivirus expose votre machine à des risques. Assurez-vous de connaître les implications avant de procéder.</em></p>
 
