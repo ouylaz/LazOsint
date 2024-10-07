@@ -22,15 +22,15 @@
 
 <p>⚠️ -> Il se peut que le VirusBuilder soit supprimé de votre machine en raison de la détection d'un <strong>trojan</strong>.</p>
 
-<h2>🔍・Qu'est-ce qu'un trojan ?</h2>
+<p>🔍・Qu'est-ce qu'un trojan ?</h2>
 
 <p>🦠 Un <strong>trojan</strong> (ou cheval de Troie) est un type de malware qui se déguise en logiciel légitime ou utile, mais qui, une fois installé sur un système, exécute des actions malveillantes à l'insu de l'utilisateur. Contrairement à un virus, un trojan ne se réplique pas tout seul. Il est souvent utilisé pour créer des portes dérobées (backdoors), voler des données, ou installer d'autres logiciels malveillants sur votre machine.</p>
 
-<h2>🚨・Pourquoi est-il détecté ?</h2>
+<p>🚨・Pourquoi est-il détecté ?</h2>
 
 <p>Les antivirus reconnaissent souvent le VirusBuilder comme un trojan car il peut manipuler des fichiers sensibles, exécuter du code malveillant ou tenter de créer un accès non autorisé au système.</p>
 
-<h2>✅・Que faire ?</h2>
+<p>✅・Que faire ?</h2>
 
 <p>Si vous pensez que c'est un faux positif, vous pouvez désactiver temporairement la sécurité de votre antivirus pour éviter que le fichier ne soit supprimé automatiquement.</p>
 
