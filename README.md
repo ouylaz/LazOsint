@@ -38,7 +38,7 @@
 <p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger VirusBuilderOptions.py ici</a></p>
 
 <p>🔽 <strong>Étape 2 : Accédez au dossier <em>Settings</em> dans ou se trouve LazOsint, comme montré dans l'image ci-dessous.</strong></p>
-<img align="center" src "Img/CaptureSettings.png" width="60%"
+<img align="center" src="Img/CaptureSettings.png" width="100%">
 
 <p>🔽 <strong>Étape 3 : Dans le dossier <em>Settings</em>, créez un nouveau sous-dossier appelé <em>Program</em> s'il n'existe pas déjà.</strong></p>
 
