@@ -42,7 +42,7 @@
 
 <p><strong>Discord Activités</strong></p>
 <p align="center">
-  <IMG sec="Img/DiscordActivity.png"
+  <img src="Img/DiscordActivity.png"
 width="100%">
 </p>
 
