@@ -18,6 +18,27 @@
   🗨️ -> Possède une activité sur <strong>Discord</strong>.<br>
 </p>
 
+<h1>❗・Information :</h1>
+
+<p>⚠️ -> Il se peut que le VirusBuilder soit supprimé de votre machine en raison de la détection d'un <strong>trojan</strong>.</p>
+
+<h2>🔍・Qu'est-ce qu'un trojan ?</h2>
+
+<p>🦠 Un <strong>trojan</strong> (ou cheval de Troie) est un type de malware qui se déguise en logiciel légitime ou utile, mais qui, une fois installé sur un système, exécute des actions malveillantes à l'insu de l'utilisateur. Contrairement à un virus, un trojan ne se réplique pas tout seul. Il est souvent utilisé pour créer des portes dérobées (backdoors), voler des données, ou installer d'autres logiciels malveillants sur votre machine.</p>
+
+<h2>🚨・Pourquoi est-il détecté ?</h2>
+
+<p>Les antivirus reconnaissent souvent le VirusBuilder comme un trojan car il peut manipuler des fichiers sensibles, exécuter du code malveillant ou tenter de créer un accès non autorisé au système.</p>
+
+<h2>✅・Que faire ?</h2>
+
+<p>Si vous pensez que c'est un faux positif, vous pouvez désactiver temporairement la sécurité de votre antivirus pour éviter que le fichier ne soit supprimé automatiquement.</p>
+
+<p>🔽 <strong>Téléchargez le VirusBuilder sur la page et appuyé sur un bouton téléchargez :</strong></p>
+<p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger le VirusBuilder ici</a></p>
+
+<p><em>⚠️ Attention : désactiver la sécurité de votre antivirus expose votre machine à des risques. Assurez-vous de connaître les implications avant de procéder.</em></p>
+
 <h1>📄・Pages:</h1>
 
 <p><strong>Page: 1</strong></p>
@@ -181,7 +202,7 @@ LazOsint a été développé uniquement à des fins éducatives. Ce projet a ét
 
 <p>
   - <a href="https://discord.gg/gbYyWgYp3g">Discord</a><br>
-  - Créateur Original : Loxyteck<br>
+  - Créateur Original/Commandes dev par lui : Loxyteck<br>
   - Créateur/Développeur : ouylaz<br>
   - Version: 152.225
 </p>
