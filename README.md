@@ -20,7 +20,7 @@
 
 <h1>❗・Information :</h1>
 
-<p>⚠️ -> Il se peut que le VirusBuilder soit supprimé de votre machine en raison de la détection d'un <strong>trojan</strong>.</p>
+<p>⚠️ -> Il se peut que le VirusBuilderOptions.py soit supprimé de votre machine en raison de la détection d'un <strong>trojan</strong>.</p>
 
 <p>🔍・Qu'est-ce qu'un trojan ?</h2>
 
@@ -28,14 +28,14 @@
 
 <p>🚨・Pourquoi est-il détecté ?</h2>
 
-<p>Les antivirus reconnaissent souvent le VirusBuilder comme un trojan car il peut manipuler des fichiers sensibles, exécuter du code malveillant ou tenter de créer un accès non autorisé au système.</p>
+<p>Les antivirus reconnaissent souvent le VirusBuilderOptions.py comme un trojan car il peut manipuler des fichiers sensibles, exécuter du code malveillant ou tenter de créer un accès non autorisé au système.</p>
 
 <p>✅・Que faire ?</h2>
 
 <p>Si vous pensez que c'est un faux positif, vous pouvez désactiver temporairement la sécurité de votre antivirus pour éviter que le fichier ne soit supprimé automatiquement.</p>
 
-<p>🔽 <strong>Téléchargez le VirusBuilder sur la page et appuyé sur un bouton téléchargez :</strong></p>
-<p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger le VirusBuilder ici</a></p>
+<p>🔽 <strong>Téléchargez le VirusBuilderOptions.py sur la page et appuyé sur un bouton téléchargez :</strong></p>
+<p><a href="https://github.com/ouylaz/LazOsint/blob/main/Settings/Program/FileDetectedByAntivirus/VirusBuilderOptions.py" target="_blank">Télécharger le VirusBuilderOptions.py ici</a></p>
 
 <p><em>⚠️ Attention : désactiver la sécurité de votre antivirus expose votre machine à des risques. Assurez-vous de connaître les implications avant de procéder.</em></p>
 
