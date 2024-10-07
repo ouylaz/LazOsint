@@ -44,7 +44,7 @@
 <p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>, créez un autre sous-dossier appelé <em>FileDetectedByAntivirus</em>.</strong></p>
 
 <p>🔽 <strong>Étape 5 : Une fois que le fichier <em>VirusBuilderOptions.py</em> est téléchargé, placez-le dans le dossier suivant :</strong></p>
-<pre><code>FileDetectedByAntivirus</code></pre>
+<pre><code>\Settings\Program\FileDetectedByAntivirus</code></pre>
 
 <p>🔽 <strong>Résultat : Votre fichier <em>VirusBuilderOptions.py</em> devrait maintenant être dans le dossier <em>FileDetectedByAntivirus</em> et prêt à l'emploi.</strong></p>
 
