@@ -40,9 +40,9 @@
 <p>🔽 <strong>Étape 2 : Accédez au dossier <em>Settings</em> dans ou se trouve LazOsint, comme montré dans l'image ci-dessous.</strong></p>
 <img align="center" src="Img/CaptureSettings.png" width="70%">
 
-<p>🔽 <strong>Étape 3 : Dans le dossier <em>Settings</em>, créez un nouveau sous-dossier appelé <em>Program</em> s'il n'existe pas déjà.</strong></p>
+<p>🔽 <strong>Étape 3 : Dans le dossier <em>Settings</em>, Ouvrer le dossier Program</strong></p>
 
-<p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>, créez un autre sous-dossier appelé <em>FileDetectedByAntivirus</em>.</strong></p>
+<p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>.</strong></p>
 
 <p>🔽 <strong>Étape 5 : Une fois que le fichier <em>VirusBuilderOptions.py</em> est téléchargé, placez-le dans le dossier suivant :</strong></p>
 <pre><code>\Settings\Program\FileDetectedByAntivirus</code></pre>
