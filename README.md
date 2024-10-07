@@ -42,7 +42,7 @@
 
 <p>🔽 <strong>Étape 3 : Dans le dossier <em>Settings</em>, Ouvrer le dossier Program</strong></p>
 
-<p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>.</strong></p>
+<p>🔽 <strong>Étape 4 : À l'intérieur du dossier <em>Program</em>, Ouvrer le dossier FileDetectedByAntivirus</strong></p>
 
 <p>🔽 <strong>Étape 5 : Une fois que le fichier <em>VirusBuilderOptions.py</em> est téléchargé, placez-le dans le dossier suivant :</strong></p>
 <pre><code>\Settings\Program\FileDetectedByAntivirus</code></pre>
