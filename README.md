@@ -15,7 +15,6 @@
   🔄 -> <strong>Fréquemment mis à jour</strong>.<br>
   💰 -> <strong>Gratuit</strong> Pour tout le mondes.<br>
   💻 -> Multi-Tools seulement pour les <strong>Professionnel</strong> et ce qui font de la <strong>Cyber-Secutité</strong.<br>
-  
 🗨️ -> Il possède une activité sur <strong>Discord</strong>.<br>
 </p>
 
