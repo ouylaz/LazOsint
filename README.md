@@ -14,7 +14,7 @@
   📂 -> <strong>Open Source</strong> uniquement à des fins de vérification, garantissant l’absence de programmes malveillants.<br>
   🔄 -> <strong>Fréquemment mis à jour</strong>.<br>
   💰 -> <strong>Gratuit</strong> pour tout le monde.<br>
-  💻 -> Multi-outils réservés aux <strong>professionnels</strong> et à ceux qui travaillent dans la <strong>cybersécurité</strong>.<br>
+  💻 -> Multi-outils réservés aux <strong>professionnels</strong>.<br>
   🗨️ -> Possède une activité sur <strong>Discord</strong>.<br>
 </p>
 
